@@ -7,4 +7,5 @@ services:
       - 25565:25565
     environment:
       EULA: "TRUE"
+      ONLINE_MODE: "FALSE"
       WORLD: https://github.com/FormulaCraftOne/FC1-SpaFrancorchamps/releases/latest/download/FC1.SpaFranc.zip
