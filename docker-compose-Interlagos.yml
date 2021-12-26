@@ -8,4 +8,4 @@ services:
     environment:
       EULA: "TRUE"
       ONLINE_MODE: "FALSE"
-      WORLD: https://github.com/FormulaCraftOne/${TRACK:-FC1-Interlagos}/releases/latest/download/world.zip
+      WORLD: https://github.com/FormulaCraftOne/FC1-Interlagos/releases/latest/download/world.zip
