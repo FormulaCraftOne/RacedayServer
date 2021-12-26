@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  server:
+    image: "itzg/minecraft-server"
+    environment:
+      - WORLD=https://github.com/FormulaCraftOne/FC1-SpaFrancorchamps/releases/latest/download/FC1.SpaFranc.zip
+    ports:
+      - "25565:25565"
