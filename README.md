@@ -19,3 +19,4 @@ Track                       |Repository            |Shorthand   |Docker-Compose 
 Autódromo José Carlos Pace  |`FC1-Interlagos`      |`interlagos`|`interlagos.yml`|https://github.com/FormulaCraftOne/FC1-Interlagos/releases/latest/download/world.zip
 Circuit de Spa-Francorchamps|`FC1-SpaFrancorchamps`|`spafranc`  |`spafranc.yml`  |https://github.com/FormulaCraftOne/FC1-SpaFrancorchamps/releases/latest/download/world.zip
 Autodromo Nazionale di Monza|`FC1-Monza`           |`monza`     |`monza.yml`     |https://github.com/FormulaCraftOne/FC1-Monza/releases/latest/download/world.zip
+Circuit Paul Ricard         |`FC1-PaulRicard`      |`paulricard`|`paulricard.yml`|https://github.com/FormulaCraftOne/FC1-PaulRicard/releases/latest/download/world.zip
