@@ -6,7 +6,7 @@ Usage:
 docker-compose -f <name-of-yml-file-in-directory> up
 ```
 
-Example: running a Spa Franc race day
+Example: running a Spa-Francorchamps race day
 
 ```
 docker-compose -f spafranc.yml up
