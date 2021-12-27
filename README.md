@@ -3,7 +3,7 @@
 Usage:
 
 ```
-docker-compose -f <name of .yml file in directory> up
+docker-compose -f <name-of-yml-file-in-directory> up
 ```
 
 Example:
